@@ -1,0 +1,31 @@
+Date,Product,Revenue,Cost,Region,Category,Units Sold,Discount (%)
+2024-01-01,Product A,500,300,North America,Electronics,50,10
+2024-01-02,Product B,700,400,,Furniture,35,5
+2024-01-03,Product A,600,350,North America,Electronics,60,
+2024-01-04,Product C,800,500,Asia,Clothing,40,20
+2024-01-05,Product B,750,450,Europe,Furniture,38,10
+,Product A,550,320,North America,Electronics,,5
+2024-01-07,Product C,,520,Asia,Clothing,45,25
+2024-01-08,Product B,720,410,Europe,Furniture,36,
+2024-01-09,Product A,650,370,North America,Electronics,65,15
+2024-01-10,Product C,850,480,Asia,Clothing,50,10
+2024-01-11,Product D,900,600,South America,Toys,70,15
+2024-01-12,Product A,450,280,North America,Electronics,45,0
+2024-01-13,Product B,780,460,,Furniture,39,
+2024-01-14,Product C,820,490,Asia,Clothing,41,5
+2024-02-01,Product A,520,310,North America,Electronics,52,10
+2024-02-05,Product D,950,620,South America,Toys,75,
+2024-02-10,Product B,710,405,Europe,Furniture,35,10
+2024-02-15,Product C,,510,Asia,Clothing,42,20
+,Product B,740,440,Europe,Furniture,37,15
+2024-02-22,Product A,680,390,North America,Electronics,68,
+2024-02-28,Product C,860,495,Asia,Clothing,55,10
+2024-03-01,Product A,610,360,North America,Electronics,61,
+2024-03-05,Product C,830,495,Asia,Clothing,43,10
+2024-03-10,Product B,760,455,,Furniture,38,5
+2024-03-15,Product D,880,590,South America,Toys,68,20
+2024-03-20,Product A,,340,North America,Electronics,58,10
+2024-03-22,Product B,730,420,Europe,Furniture,36,0
+2024-03-25,Product C,870,505,Asia,Clothing,48,
+2024-03-28,Product D,910,610,South America,Toys,72,15
+2024-03-31,Product A,580,330,North America,Electronics,55,5
